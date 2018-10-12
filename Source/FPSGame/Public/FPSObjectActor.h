@@ -6,6 +6,8 @@
 #include "GameFramework/Actor.h"
 #include "FPSObjectActor.generated.h"
 
+class USphereComponent;
+
 UCLASS()
 class FPSGAME_API AFPSObjectActor : public AActor
 {
